@@ -65,7 +65,7 @@
 
 ###
 
-<p align="left">I'm looking for an opportunity as a developer where I can participate in and create projects that make a real impact in the tech industry and in society. After all, this is my passion — it's what drives me every</p>
+<p align="left">I'm looking for an opportunity as a developer where I can participate in and create projects that make a real impact in the tech industry and in society. After all, this is my passion — it's what drives me everyday</p>
 
 ###
 
